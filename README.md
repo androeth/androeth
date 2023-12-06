@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @androeth
+Hello world 👋
+
 - 👀 I’m interested in Full stack Developer, Machine learning and AI
 - 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on 
